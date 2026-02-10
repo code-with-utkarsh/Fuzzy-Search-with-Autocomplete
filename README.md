@@ -1,4 +1,6 @@
 ## Reaidy Fuzzy Search Autocomplete (MERN)
+<img width="1690" height="873" alt="image" src="https://github.com/user-attachments/assets/9b1a4eb5-9983-4cb3-b418-d05e7e0b8fc7" />
+
 
 This is a minimal MERN demonstration of a **fuzzy search with autocomplete** experience using:
 
